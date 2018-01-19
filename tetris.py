@@ -1,5 +1,5 @@
 """
-ZetCode PyQt5 tutorial 
+ZetCode PyQt5 tutorial !
 
 This is a Tetris game clone.
 
